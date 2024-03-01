@@ -1,6 +1,6 @@
-<p align="center">
-<img alt="Tour Tunes" src="assets/icon.png" width="350">
-</p>
+<h1 align="center">
+Tour Tunes
+</h1>
 
 <p align="center">
 <img alt="Licence" src=https://img.shields.io/github/license/lironbdolah/tourtunes>
