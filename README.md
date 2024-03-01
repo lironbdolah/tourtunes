@@ -1,8 +1,8 @@
 # Tour Tunes
+<p>
 <img alt="Licence" src=https://img.shields.io/github/license/lironbdolah/tourtunes>
  <img alt="Issues" src=https://img.shields.io/github/issues/lironbdolah/tourtunes>
  <img alt="last commit" src=https://img.shields.io/github/last-commit/lironbdolah/tourtunes>
-
 </p>
 
 Tour Tunes creates Spotify playlists based on concert setlists scraped from [Setlist.FM](https://www.setlist.fm/).
