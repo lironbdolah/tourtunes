@@ -1,5 +1,8 @@
-# Tour Tunes
-<p>
+<p align="center">
+<img alt="Tour Tunes" src="assets/icon.png" width="350">
+</p>
+
+<p align="center">
 <img alt="Licence" src=https://img.shields.io/github/license/lironbdolah/tourtunes>
  <img alt="Issues" src=https://img.shields.io/github/issues/lironbdolah/tourtunes>
  <img alt="last commit" src=https://img.shields.io/github/last-commit/lironbdolah/tourtunes>
